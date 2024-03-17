@@ -1,1 +1,34 @@
-# VacationPlan
+# Tur Sitesi
+
+Bu proje, bir seyahat web sitesinin HTML ve CSS kullanılarak oluşturulmuş bir örneğini içerir. Bu web sitesi, kullanıcıların farklı tatil ve tur seçeneklerini keşfetmelerine olanak tanır.
+
+<details>
+  <summary><strong>Nasıl Çalışır</strong></summary>
+  
+  Bu proje, sadece HTML ve CSS dosyalarından oluşur. Projeyi çalıştırmak için bir web tarayıcısında `index.html` dosyasını açmanız yeterlidir.
+</details>
+
+<details>
+  <summary><strong>Kullanılan Teknolojiler</strong></summary>
+  
+  - HTML
+  - CSS
+  - RemixIcon
+  - BoxIcon
+</details>
+
+<details>
+  <summary><strong>Katkıda Bulunma</strong></summary>
+  
+  1. Bu projeyi fork edin (https://github.com/yourusername/tur-sitesi/fork)
+  2. Yeni bir dal oluşturun (`git checkout -b feature/fooBar`)
+  3. Değişikliklerinizi yapın (`git commit -am 'Add some fooBar'`)
+  4. Dala itme yapın (`git push origin feature/fooBar`)
+  5. Bir Pull Talebi açın
+</details>
+
+<details>
+  <summary><strong>Lisans</strong></summary>
+  
+  Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
+</details>
